@@ -6,7 +6,7 @@
 [![Platform](https://img.shields.io/cocoapods/p/AVReachability.svg?style=flat)](http://cocoapods.org/pods/AVReachability)
 ## AVReachability
 
-AVReachability is a class that lets you chek for network connectivity. Written in Swift 2.0 for iOS 9 on Xcode 7.0.1 (7A1001)
+AVReachability is a class that lets you check for network connectivity. Written in Swift 2.0 for iOS 9 on Xcode 7.0.1 (7A1001).
 
 ## Usage
 
@@ -30,10 +30,6 @@ it, simply add the following line to your Podfile:
 pod "AVReachability"
 ```
 
-## Author
+## Credits
 
-Atharva Vaidya
-
-## License
-
-AVReachability is available under the MIT license. See the LICENSE file for more info.
+[Isuru Nanayakkara](http://stackoverflow.com/users/1077789/isuru) for his answer [here](http://stackoverflow.com/a/25774420) on StackOverflow.
