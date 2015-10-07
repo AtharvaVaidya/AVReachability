@@ -19,6 +19,8 @@ Checking for connectivity is as simple as:
 
 ## Requirements
 
+Xcode 7.0.1
+
 ## Installation
 
 AVReachability is available through [CocoaPods](http://cocoapods.org). To install
