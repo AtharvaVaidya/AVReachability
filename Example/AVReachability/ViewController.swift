@@ -7,12 +7,24 @@
 //
 
 import UIKit
+import AVReachability
+class ViewController: UIViewController
+{
 
-class ViewController: UIViewController {
-
-    override func viewDidLoad() {
+    override func viewDidLoad()
+    {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        if Reachability.isConnectedToNetwork() == true
+        {
+            print("Connected to network")
+            
+        }
+        else
+        {
+            print("Couldn't connect to network")
+        }
+        
     }
 
     override func didReceiveMemoryWarning() {

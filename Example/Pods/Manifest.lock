@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  AVReachability: 4fd48348f3f34bec680852922ccff60ac62cbf13
+  AVReachability: dc7bf7f6b7deffe8191306502d379e977d8593b9
 
 COCOAPODS: 0.37.2
