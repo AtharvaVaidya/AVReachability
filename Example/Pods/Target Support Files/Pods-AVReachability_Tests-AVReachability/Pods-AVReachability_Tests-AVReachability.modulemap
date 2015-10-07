@@ -1,0 +1,6 @@
+framework module AVReachability {
+  umbrella header "Pods-AVReachability_Tests-AVReachability-umbrella.h"
+
+  export *
+  module * { export * }
+}

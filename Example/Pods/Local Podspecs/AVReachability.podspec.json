@@ -1,0 +1,25 @@
+{
+  "name": "AVReachability",
+  "version": "0.1.0",
+  "summary": "A short description of AVReachability.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/AVReachability",
+  "license": "MIT",
+  "authors": {
+    "TechieCSG": "atharva.vaidya01@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/AVReachability.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "AVReachability": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+PODS:
+  - AVReachability (0.1.0)
+
+DEPENDENCIES:
+  - AVReachability (from `../`)
+
+EXTERNAL SOURCES:
+  AVReachability:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AVReachability: 4fd48348f3f34bec680852922ccff60ac62cbf13
+
+COCOAPODS: 0.37.2
