@@ -12,10 +12,10 @@ AVReachability is a class that lets you check for network connectivity. Written 
 
 Checking for connectivity is as simple as:
 
-if Reachability.isConnectedToNetwork() == true
-{
-//Do something
-}
+    if Reachability.isConnectedToNetwork() == true
+    {
+    //Do something
+    }
 
 ## Requirements
 
