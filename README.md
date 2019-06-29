@@ -14,7 +14,7 @@ Checking for connectivity is as simple as:
 
     if Reachability.isConnectedToNetwork() == true
     {
-    //Do something
+        //Do something
     }
 
 ## Requirements
